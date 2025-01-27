@@ -2,7 +2,8 @@
 
 ## Objective
 
-This Lab is amin to provide hands-on experience in implementing Azure cloud data protection strategies, including backup, monitoring, and replication for high availability and resiliency. I learned about backup and recovery of Azure VMs, creating a Recovery Services Vault and a backup policies for Azure VMs. Finally I also learned about disaster recovery using Azure Site Recovery.
+This Lab is aimed to provide hands-on experience implementing Azure cloud data protection strategies, including backup, monitoring, and replication for High Availability (HA) and Resiliency. I learned about backup and recovery of Azure VMs, creating Recovery Services Vault and a backup policies for Azure VMs. Finally I also learned about disaster recovery using Azure Site Recovery.
+
 
 ## Architecture diagram
 ![image](https://github.com/user-attachments/assets/fcc3232f-2e31-4fee-af0f-88d94f0e60b2)
